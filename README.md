@@ -14,16 +14,15 @@ Aspiring Software Engineer based in Jalandhar, India, dedicated to mastering Dat
 
 ### 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guransh-Singh-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guransh-Singh-1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guransh-Singh-1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guransh-Singh-1&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ### 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/guransh_singh_1" alt="LeetCode Stats" width="80%" />
-</p>
+   <img src="https://leetcard.azurewebsites.net/badge/guransh_singh_1?theme=dark" alt="LeetCode Card" />
 
 ---
 
